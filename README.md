@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Lokeshwaran V<br>💻 Computer Science Student | Prompt Engineer | Strong in Problem-Solving & DSA<br>✅ Solved 230+ LeetCode problems<br>✅ Solved 300+ HackerRank problems<br>🏆 Holding 50,000+ Hackos<br><br>🚀 I'm currently working on<br>🌱 Smart Irrigation & Soil Monitoring using machine learning.<br>💰 Secure Wallet System – Blockchain integration & ZKP authentication.<br><br>🤝 I'm looking to collaborate on<br>🔹 DSA and algorithms to improve problem-solving skills.<br>🔹 Agritech, Fintech, and Smart Education projects.<br><br>🙌 I'm looking for help with<br>📈 Advanced ML models for agriculture insights.<br>🔐 Enhancing security in blockchain-based wallets.<br><br>🌱 I'm currently learning<br>📌 Advanced DSA & Tree Data Structures for real-time applications.<br>📌 Asynchronous programming in Python.<br><br>💬 Ask me about<br>🛠 Python, React.js, Node.js, MongoDb, Prompt Engineering, PostgreSQL, Machine Learning.<br><br>⚡ Fun fact<br>🧠 Solving DSA problems is like going to the gym for your brain!
+👋 Hi, I'm Lokeshwaran V<br>💻 Computer Science Student | Prompt Engineer | Strong in Problem-Solving & DSA<br>✅ Solved 230+ LeetCode problems<br>✅ Solved 300+ HackerRank problems<br>🏆 Holding 50,000+ Hackos<br><br>🤝 I'm looking to collaborate on<br>🔹 DSA and algorithms to improve problem-solving skills.<br><br>🌱 I'm currently learning<br>📌 Advanced DSA & Tree Data Structures for real-time applications.<br>📌 Asynchronous programming in Python.<br><br>💬 Ask me about<br>🛠 Python, React.js, Node.js, MongoDb, Prompt Engineering.<br><br>⚡ Fun fact<br>🧠 Solving DSA problems is like going to the gym for your brain!
 
 
 ## 🌐 Socials:
@@ -17,4 +17,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lokeshvivek2511&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
